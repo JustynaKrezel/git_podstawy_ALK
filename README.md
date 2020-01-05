@@ -1,6 +1,6 @@
 # git_podstawy_A
 
-Prosty proejkt aplikacji hml css
+Prosty projekt aplikacji html css
 
 ## Aby uruchomić:
 
